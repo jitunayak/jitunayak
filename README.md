@@ -5,7 +5,13 @@ I am jitu Nayak. I have a keen intrest in computer vision, web devlopement and I
 
 ```
 
+### 📖 What i am currently learning
+- Full Stack Web Development  * Progress 50% *
+- AI & Machine Learning  * Progress 30% *
+- React JS * 75% *
 
+ 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
+ ### lots of new repos are on way
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=jitunayak&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
