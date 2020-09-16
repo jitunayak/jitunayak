@@ -14,7 +14,7 @@ This is jitu Nayak. I have a keen intrest in software development computer visio
  🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
  ### lots of new repos are on way
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurpc03&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" alt="github stats"/></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jitunayak&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" alt="github stats"/></br>
 </p>
 
 <p  align="center">
