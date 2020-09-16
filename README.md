@@ -1,7 +1,7 @@
 ### Hello world  👋
 
 ```
-I am jitu Nayak. I have a keen intrest in computer vision, web devlopement and Internet of things. 
+This is jitu Nayak. I have a keen intrest in software development computer vision, web devlopement and Internet of things. 
 
 ```
 
@@ -9,13 +9,17 @@ I am jitu Nayak. I have a keen intrest in computer vision, web devlopement and I
 - Full Stack Web Development  * Progress 50% *
 - AI & Machine Learning  * Progress 30% *
 - React JS * 75% *
+- React Native * 60 *
 
  🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
  ### lots of new repos are on way
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=jitunayak&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurpc03&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats" alt="github stats"/></br>
 </p>
 
+<p  align="center">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jitunayak&layout=compact&theme=radical&,191919&title_color=fff&text_color=fff&icon_color=79ff97"
+</p>
 <!--
 **jitunayak/jitunayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
