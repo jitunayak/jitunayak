@@ -6,10 +6,13 @@ This is jitu Nayak. I have a keen intrest in software development computer visio
 ```
 
 ### 📖 What i am currently learning
+- AWS *Started* 
 - Full Stack Web Development  * Progress 60% *
 - AI & Machine Learning  * Progress 40% *
 - React JS * 85% *
-- React Native * 75 *
+- React Native * 90 *
+- Spring Boot *Completed*
+- Kafka - *Comlpeted*
 
  🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
  ### lots of new repos are on way
