@@ -1,18 +1,22 @@
 ### Hello world  👋
 
-```
-This is jitu Nayak. I have a keen intrest in software development computer vision, web devlopement and Internet of things. 
 
 ```
+This is jitu Nayak. I have a keen intrest in software development computer vision, web devlopement and Internet of things.
+Javascript is true happiness 
+```
+
 
 ### 📖 What i am currently learning
-- AWS *Started ===> miles to go* 
-- Full Stack Web Development  * Progress 60% *
-- AI & Machine Learning  * Progress 40% *
-- React JS * 85% *
-- React Native * 90 *
-- Spring Boot *Completed*
-- Kafka - *Comlpeted*
+- AWS 
+- Node Js
+- Serverless AWS stack
+- React JS 
+- Full Stack Web Development 
+- AI & Machine Learning 
+- React Native
+- Spring Boot
+- Kafka
 
  🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
  ### lots of new repos are on way
@@ -24,16 +28,12 @@ This is jitu Nayak. I have a keen intrest in software development computer visio
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jitunayak&layout=compact&theme=radical&,191919&title_color=fff&text_color=fff&icon_color=79ff97"
 </p>
 <!--
-**jitunayak/jitunayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jitunayak/jitunayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+ 
+ 
+ >***TLDR: Coerce yourself to use triple equals***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://www.freecodecamp.org/news/content/images/2019/07/best-js-meme-to-date-2.png)
+ 
+ 📫 Want to connect with me? drop a mail at <jitunayak715@gmail.com>
